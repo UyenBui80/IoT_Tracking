@@ -1,0 +1,10 @@
+USBasp_driver install:
+Plug in USBasp
+Download Zadig from http://zadig.akeo.ie
+Start zadig
+Options > List all devices
+Select USBasp from the drop down menu
+Select libusbK(v3.0.7.0) driver
+Click Install
+
+http://forum.arduino.cc/index.php?topic=415210.msg2862244#msg2862244
